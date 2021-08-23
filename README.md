@@ -19,7 +19,7 @@
 
 # Sidee u istimcalaya ama u bilabaysaa template-kan  🎁
 
-- Soo Booqo Github Page-kayga ama ku dhufo link-gan [Github](https://github.com/saedMuhamed)
+- Soo Booqo Github Page-kayga ama ku dhufo link-gan [SomaliPortfolioPage](https://github.com/saedMuhamed/SomaliPortfolioPage)
 - Fur folder aad ku save-gareesey File-ka 
 - Folder > File > laba jeer ku dhufo file-ka 
 
