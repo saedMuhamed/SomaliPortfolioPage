@@ -19,9 +19,9 @@
 
 # Sidee u istimcalaya ama u bilabaysaa template-kan  🎁
 
-- Soo Booqo Github Page-kayga ama ku dhufo link-gan [SomaliPortfolioPage](https://github.com/saedMuhamed/SomaliPortfolioPage)
-- Fur folder aad ku save-gareesey File-ka 
-- Folder > File > laba jeer ku dhufo file-ka 
+- Soo Booqo Github Page-kayga ama ku dhufo link-gan [SomaliPortfolioPage](https://github.com/saedMuhamed/SomaliPortfolioPage).
+- Waxaad taabata buttonk cagaaran ee ay ku qoran **CODE**. 
+- Hadii aad u baahntahy URl Qado Ku Paste-garee Terminal adigo Ku qoroya - `git clone`
 
 # Side u bedbedalaya
 
