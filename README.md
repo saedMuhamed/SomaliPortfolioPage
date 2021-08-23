@@ -21,13 +21,15 @@
 
 - Soo Booqo Github Page-kayga ama ku dhufo link-gan [SomaliPortfolioPage](https://github.com/saedMuhamed/SomaliPortfolioPage).
 - Waxaad taabata buttonk cagaaran ee ay ku qoran **CODE**. 
-- Hadii aad u baahntahy URl Qado Ku Paste-garee Terminal adigo Ku qoroya - `git clone`
+- Hadii aad u baahntahy URl sida HTTPS ama SSH,  Qaado link-ga Kuna Paste-garee Terminal adigo Ku qoroya - `git clone URL`
+- Hadii kale Taabo **Download Zip File** 
 
-# Side u bedbedalaya
-
-- Ku badal `homepage` ee ku dhex jira file-ka package.json kuna badal magaca domain-kaaga ama `https://<username>.github.io`
-- File-ka `src/portfolio.js` waxaad ku badali karta ama ku qori kartaa details-kaaga.
-- Halka `src/theme.js` Waxaad ku badali kartaa midabada aad jeceshahay. waxad isku badali kartaa Light and Dark theme ee ku yaala qaybta sare ee page-ka.
+# Folder-da Uu leeyahay Template-kani 
+- Assets 
+ : Images 
+ : Css 
+ : Pdfs
+ : Javasript
 
 # Side uga dhigaysa Online ama u deploy-gareenaysa
 
