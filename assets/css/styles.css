@@ -8,8 +8,8 @@
 
 /*===== Colores =====*/
 :root {
-  --first-color: #4070f4;
-  --second-color: #0e2431;
+  --first-color: #e90d0d;
+  --second-color: #000203;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -120,7 +120,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
+  background-color: rgb(250, 250, 250);
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
