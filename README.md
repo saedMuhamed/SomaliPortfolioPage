@@ -25,7 +25,7 @@
 - Hadii kale Taabo **Download Zip File** 
 
 # Folder-da Uu leeyahay Template-kani 
-- Assets 
+Assets 
  : Images 
  : Css 
  : Pdfs
