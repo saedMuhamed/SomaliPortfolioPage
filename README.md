@@ -26,10 +26,10 @@
 
 # Folder-da Uu leeyahay Template-kani 
 #### Assets 
-       - Images 
-       - Css 
-       - Pdfs
-       - Javasript
+  - Images 
+  - Css 
+  - Pdfs
+  - Javasript
 
 # Side uga dhigaysa Online ama u deploy-gareenaysa
 
