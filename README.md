@@ -25,11 +25,11 @@
 - Hadii kale Taabo **Download Zip File** 
 
 # Folder-da Uu leeyahay Template-kani 
-Assets 
- - Images 
- - Css 
- - Pdfs
- - Javasript
+#### Assets 
+       - Images 
+       - Css 
+       - Pdfs
+       - Javasript
 
 # Side uga dhigaysa Online ama u deploy-gareenaysa
 
