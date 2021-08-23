@@ -19,7 +19,7 @@
 
 # Sidee u istimcalaya ama u bilabaysaa template-kan  🎁
 
-- Fur File Explorer-kaaga 
+- Soo Booqo Github Page-kayga ama ku dhufo link-gan [](https://github.com/saedMuhamed)
 - Fur folder aad ku save-gareesey File-ka 
 - Folder > File > laba jeer ku dhufo file-ka 
 
