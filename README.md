@@ -1,6 +1,6 @@
-# Somali Responsive Portfolio
+# Somali Responsive Portfolio 😀😊
 -------------------------------------------------------------------
-## Kani Waa website yar oo fudud oo aad ka dhigan karto CV 
+## Kani Waa website yar oo fudud oo aad ka dhigan karto CV  ✨✨✨✨
 
 # Somali Portoflio webPage 
 
