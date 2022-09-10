@@ -4,7 +4,7 @@
 
 # Somali Portoflio webPage 
 
-<!-- ![just-a-web-portfolio](/saed.jpg=20x)  -->
+<!-- [just-a-web-portfolio](/saed.jpg=20x)  -->
 
 ### 🙋‍♂️ Ina Mari --
 
