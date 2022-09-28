@@ -6,7 +6,7 @@
 
 <!-- [just-a-web-portfolio](/saed.jpg=20x)  -->
 
-### 🙋‍♂️ Ina Mari --
+### 🙋‍♂️ Ina Mari 
 
 # Qaybaha uu Kala baxayo Site-kani 〽〽〽
 
