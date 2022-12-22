@@ -36,7 +36,7 @@
 
 - Kolka aad ku guulaysato talaabooyinkaa hore ee aad martey iyo loo setup-greenayaba, waxaad u baahantahay inaad websitekaaga ka dhigto online!
 - Waxaad isticmali karta [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) kaaso ah ka ugu fudud.
-  -Si aad u deploy greeso websitka waxaad mari doonta labadan hab ee fudud. Markla ugu horeesa waxaad u baahntahay inaad sameeso magaca `<your-github-username>.github.io`. Isku day inaanad ka dhigin magaca kale.
+  -Si aad u deploy greeso websitka waxaad mari doonta labadan hab ee fudud. Markla ugu horeesa waxaad u baahntahay iinaad sameeso magaca `<your-github-username>.github.io`. Isku day inaanad ka dhigin magaca kale.
 - hadda, waxaad u baahntahay inaad sameeso production build ama inaad deploy-gareeso website-ka.
 
 **Habka Koobaad 1**
