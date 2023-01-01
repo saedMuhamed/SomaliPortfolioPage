@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ Ina Mari 
 
-# Qaybaha uu Kala baxayo Site-kani 〽〽〽
+# Qaybaha uu Kala baxayo Site-kani 〽〽
 
 - Home oo ah interface-ka ugu horeeya ee soo booqduhu arkayo 
 - About - Ku saabsan
