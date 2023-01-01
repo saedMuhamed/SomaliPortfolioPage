@@ -68,7 +68,7 @@ Hadda, Websitk-kaagu waa diyaar, waxaand kaso booqan karta website-kan `<your-gi
 
 # Contacts 📞
 
-- [Github](https://github.com/saedMuhamed)  -- 
+- [Github](https://github.com/saedMuhamed)  
 - [Twitter](https://twitter.com/saedmuhamed3)
 - [Faceook](https://www.facebook.com/sxabo)
 
