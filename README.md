@@ -21,7 +21,8 @@
 
 - Soo Booqo Github Page-kayga ama ku dhufo link-gan [SomaliPortfolioPage](https://github.com/saedMuhamed/SomaliPortfolioPage).
 - Waxaad taabata buttonk cagaaran ee ay ku qoran **CODE**. 
-- Hadii aad u baahntahy URl sida HTTPS ama SSH,  Qaado link-ga Kuna Paste-garee Terminal adigo Ku qoroya - `git clone URL`
+- Hadii aad u baahntahy URl sida HTTPS ama SSH,  Qaado link-ga Kuna Paste-garee Terminal adigo Ku qoroya - 
+- `git clone URL`
 - Hadii kale Taabo **Download Zip File** 
 
 # Folder-da Uu leeyahay Template-kani 
